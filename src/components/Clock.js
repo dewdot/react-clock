@@ -11,6 +11,7 @@ const Clock = () => {
   return (
     <>
       <div className="clock-app">
+        <h1 className="title">Current Time</h1>
         <h1>{currentTime}</h1>
       </div>
 
