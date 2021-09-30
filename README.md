@@ -1,9 +1,10 @@
 # A simple digital clock made suing reactjs
 
 
-## Learn More
-You can read more about this here:
+### Demo
+https://react-clock-topaz.vercel.app/
 
-### Code Splitting
 
-Demo:
+## About Me
+I am Ravi from India. My blog:
+https://dewcodes.com/
