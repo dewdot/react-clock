@@ -1,4 +1,4 @@
-# A simple digital clock made suing reactjs
+# A simple digital clock made using reactjs
 
 
 ### Demo
